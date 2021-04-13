@@ -6,7 +6,8 @@ Shot-profile prestack depth migration algorithm based on a phase-shift plus inte
 From the top directory follow:
 
 ` mkdir build `
-  cd build `
+  
+` cd build `
 
 ` cmake .. -DMigration_BUILD_BENCH=ON -DMigration_BUILD_EXAMPLES=ON -DMigration_BUILD_UNITTESTS=ON `
 
